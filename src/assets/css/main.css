@@ -1388,7 +1388,7 @@ ul#nav li a:active {
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2b2b2b;
+   background: #3e3e3e;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -1920,7 +1920,7 @@ call-to-action .button {
 footer {
    padding: 15px 0;
    color: #fff;
-   background-color: #2b2b2b;
+   background-color: #3e3e3e;
    text-align: center;
    position: relative;
 }
@@ -2391,5 +2391,6 @@ footer .copyright li:first-child:before {
 .impressum {
    text-align: center;
    padding: 120px;
-   color: #fff;
+   color: #000;
+   background-color: #fff;
 }

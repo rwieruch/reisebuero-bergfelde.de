@@ -36,20 +36,24 @@ const About = () => (
               <br />
               <span>Telefon: 03303 504137</span>
               <br />
-              <span>E-Mail: hallo@bergfelde-reisen.de</span>
+              <span>E-Mail: info@reisebuero-bergfelde.de</span>
             </p>
           </div>
 
           <div className="columns contact-details">
             <h2>Öffnungszeiten</h2>
             <p className="address">
-              <span>Montag - Freitag:</span>
+              <span>Montag, Dienstag, Donnerstag, Freitag:</span>
               <br />
               <span>10:00 Uhr - 18:00 Uhr</span>
               <br />
+              <span>Mittwoch:</span>
+              <br />
+              <span>10:00 Uhr - 14:00 Uhr</span>
+              <br />
               <span>Samstag:</span>
               <br />
-              <span>10:00 Uhr - 15:00 Uhr</span>
+              <span>10:00 Uhr - 12:00 Uhr</span>
               <br />
               <span>Sonntag: geschlossen</span>
             </p>

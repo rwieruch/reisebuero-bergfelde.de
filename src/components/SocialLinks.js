@@ -1,16 +1,20 @@
 import React from 'react';
-import { FaEnvelope, FaMap } from 'react-icons/lib/fa';
+import { FaEnvelope, FaMapSigns } from 'react-icons/lib/fa';
 
 const SocialLinks = () => (
   <ul className="social">
     <li>
-      <a href="mailto:hallo@bergfelde-reisen.de">
+      <a href="mailto:info@reisebuero-bergfelde.de">
         <FaEnvelope />
       </a>
     </li>
     <li>
-      <a href="https://goo.gl/maps/mhggNdQKkAv">
-        <FaMap />
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://goo.gl/maps/mhggNdQKkAv"
+      >
+        <FaMapSigns />
       </a>
     </li>
   </ul>

@@ -12,7 +12,7 @@ const Impressum = () => (
       <li>Birkenwerderstraße 6</li>
       <li>16562 Hohen Neuendorf</li>
       <li>Telefon: 03303 504137</li>
-      <li>E-Mail: hallo@bergfelde-reisen.de</li>
+      <li>E-Mail: info@reisebuero-bergfelde.de</li>
     </ul>
     <h2>Haftungsausschluss:</h2>
     <h3>Haftung für Inhalte</h3>
