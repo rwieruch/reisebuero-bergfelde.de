@@ -27,11 +27,11 @@ const Portfolio = () => (
                 rel="noopener noreferrer"
                 href="https://www.lonelyplanet.com/indonesia/bali"
               >
-                <img alt="" src={Coffee} />
+                <img alt="Bali" src={Coffee} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>Bali</h5>
-                    <p>Yoga, Meditation, and Health</p>
+                    <p>Yoga, Meer & gesundes Essen</p>
                   </div>
                 </div>
               </a>
@@ -40,12 +40,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="#">
-                <img alt="" src={Console} />
+              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/morocco">
+                <img alt="Marokko" src={Console} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Console</h5>
-                    <p>Web Development</p>
+                    <h5>Marokko</h5>
+                    <p>Königsstädte, Meer & Orient</p>
                   </div>
                 </div>
               </a>
@@ -54,12 +54,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="#">
-                <img alt="" src={Judah} />
+              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/canada">
+                <img alt="Kanada" src={Judah} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Judah</h5>
-                    <p>Webdesign</p>
+                    <h5>Kanada</h5>
+                    <p>Natur pur & Outdoorfreuden</p>
                   </div>
                 </div>
               </a>
@@ -68,12 +68,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="#">
-                <img alt="" src={IntoTheLight} />
+              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/australia">
+                <img alt="Australien" src={IntoTheLight} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Into The Light</h5>
-                    <p>Photography</p>
+                    <h5>Australien</h5>
+                    <p>Sonne, Strand & gute Laune</p>
                   </div>
                 </div>
               </a>
@@ -82,12 +82,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="#">
-                <img alt="" src={Farmerboy} />
+              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/china">
+                <img alt="China" src={Farmerboy} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Farmer Boy</h5>
-                    <p>Branding</p>
+                    <h5>China</h5>
+                    <p>Tempel, heilige Berge & gigantische Großstädte</p>
                   </div>
                 </div>
               </a>
@@ -96,12 +96,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="#">
-                <img alt="" src={Girl} />
+              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/botswana">
+                <img alt="Botswana" src={Girl} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Girl</h5>
-                    <p>Photography</p>
+                    <h5>Botswana</h5>
+                    <p>Elefanten, Safari & Nationalparks</p>
                   </div>
                 </div>
               </a>
@@ -110,12 +110,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="#">
-                <img alt="" src={Origami} />
+              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/argentina">
+                <img alt="Argentinien" src={Origami} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Origami</h5>
-                    <p>Illustrration</p>
+                    <h5>Argentinien</h5>
+                    <p>Tango, Patagonien & Anden</p>
                   </div>
                 </div>
               </a>
@@ -124,12 +124,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="#">
-                <img alt="" src={Retrocam} />
+              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/jamaica">
+                <img alt="Jamaika" src={Retrocam} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Retrocam</h5>
-                    <p>Web Development</p>
+                    <h5>Jamaika</h5>
+                    <p>Reggae, Strand & Wasserfälle</p>
                   </div>
                 </div>
               </a>

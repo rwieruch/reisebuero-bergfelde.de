@@ -12,16 +12,25 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>Über Uns</h2>
         <p>
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-          ab illo inventore veritatis et quasi architecto beatae vitae dicta
-          sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-          aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-          qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-          dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed
-          quia non numquam eius modi tempora incidunt ut labore et dolore magnam
-          aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
-          exercitationem ullam corporis suscipit laboriosam.
+          Ob Bergsteiger oder Meeresanbeter, Entdecker oder Faulenzer - Urlaub
+          ist fantastisch! Und damit bereits Ihre Urlaubsplanung so entspannt
+          wie möglich verläuft, helfen wir Ihnen, Ihre Traumreise
+          zusammenzustellen.
+        </p>
+        <p>
+          Bereits seit 1996 stelle ich, Heike Wieruch, meinen Kunden Reisen ganz
+          nach ihren individuellen Wünschen zusammen. Seit 2010 unterstützt mich
+          dabei Silvia Bürst. Gemeinsam haben wir es uns zur Aufgabe gemacht,
+          Ihren Urlaub nicht nur schön, sondern unvergesslich zu machen.
+          Umfassendes Reisewissen, persönlicher Service und eine große
+          Angebotsvielfalt zeichnen uns aus. Wir möchten, dass Sie Ihren Urlaub
+          entspannt und sorgenfrei genießen können und deswegen sind wir nicht
+          nur vor, sondern auch während und nach Ihrer Reise stets für Sie da.
+        </p>
+        <p>
+          Ob Last Minute- oder Frühbucher, Pauschalreise, Kreuzfahrttrip oder
+          individuelle Zusammenstellung - wir finden genau den Urlaub, der zu
+          Ihnen passt. Lassen Sie sich von uns beraten.
         </p>
         <div className="row">
           <div className="columns contact-details">
