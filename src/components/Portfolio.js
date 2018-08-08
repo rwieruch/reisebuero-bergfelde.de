@@ -1,14 +1,14 @@
 import React from 'react';
 import { FaPlus, FaTag } from 'react-icons/lib/fa';
 
-import Coffee from '../assets/images/portfolio/coffee.jpg';
-import Console from '../assets/images/portfolio/console.jpg';
-import Judah from '../assets/images/portfolio/judah.jpg';
-import IntoTheLight from '../assets/images/portfolio/into-the-light.jpg';
-import Farmerboy from '../assets/images/portfolio/farmerboy.jpg';
-import Girl from '../assets/images/portfolio/girl.jpg';
-import Origami from '../assets/images/portfolio/origami.jpg';
-import Retrocam from '../assets/images/portfolio/retrocam.jpg';
+import Bali from '../assets/images/portfolio/bali.jpg';
+import Marokko from '../assets/images/portfolio/morocco.jpg';
+import Kanada from '../assets/images/portfolio/canada.jpg';
+import Australia from '../assets/images/portfolio/australia.jpg';
+import china from '../assets/images/portfolio/china.jpg';
+import Botswana from '../assets/images/portfolio/botswana.jpg';
+import Argentina from '../assets/images/portfolio/argentina.jpg';
+import Jamaica from '../assets/images/portfolio/jamaica.jpg';
 
 const Portfolio = () => (
   <section id="portfolio">
@@ -27,7 +27,7 @@ const Portfolio = () => (
                 rel="noopener noreferrer"
                 href="https://www.lonelyplanet.com/indonesia/bali"
               >
-                <img alt="Bali" src={Coffee} />
+                <img alt="Bali" src={Bali} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>Bali</h5>
@@ -40,8 +40,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/morocco">
-                <img alt="Marokko" src={Console} />
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.lonelyplanet.com/morocco"
+              >
+                <img alt="Marokko" src={Marokko} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>Marokko</h5>
@@ -54,8 +58,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/canada">
-                <img alt="Kanada" src={Judah} />
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.lonelyplanet.com/canada"
+              >
+                <img alt="Kanada" src={Kanada} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>Kanada</h5>
@@ -68,8 +76,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/australia">
-                <img alt="Australien" src={IntoTheLight} />
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.lonelyplanet.com/australia"
+              >
+                <img alt="Australien" src={Australia} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>Australien</h5>
@@ -82,8 +94,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/china">
-                <img alt="China" src={Farmerboy} />
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.lonelyplanet.com/china"
+              >
+                <img alt="China" src={china} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>China</h5>
@@ -96,8 +112,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/botswana">
-                <img alt="Botswana" src={Girl} />
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.lonelyplanet.com/botswana"
+              >
+                <img alt="Botswana" src={Botswana} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>Botswana</h5>
@@ -110,8 +130,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/argentina">
-                <img alt="Argentinien" src={Origami} />
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.lonelyplanet.com/argentina"
+              >
+                <img alt="Argentinien" src={Argentina} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>Argentinien</h5>
@@ -124,8 +148,12 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a target="_blank" rel="noopener noreferrer" href="https://www.lonelyplanet.com/jamaica">
-                <img alt="Jamaika" src={Retrocam} />
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.lonelyplanet.com/jamaica"
+              >
+                <img alt="Jamaika" src={Jamaica} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>Jamaika</h5>
