@@ -9,6 +9,10 @@ const TemplateWrapper = ({ children }) => (
       <meta name="author" description={siteMetadata.author} />
       <title>{siteMetadata.title}</title>
       <meta itemprop="keywords" content={siteMetadata.keywords} />
+      <meta
+        name="google-site-verification"
+        content="TBf5jb-hGSmtzskBycCj68Ife1MDiO0pESSf8Q6c_kQ"
+      />
     </Helmet>
     {children()}
   </div>
