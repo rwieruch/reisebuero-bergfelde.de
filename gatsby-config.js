@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
+    siteUrl: `https://www.reisebuero-bergfelde.de/`,
     author: 'Heike Wieruch',
     title: 'Reisebüro Bergfelde',
     description:
-      'Reisebüro Bergfelde - Ihr Reisebüro für Bergfelde, Birkenwerder und Hohen Neuendorf für individuelle Reisen. Für sie vor Ort: Heike Wieruch ...',
+      'Reisebüro Bergfelde - Ihr Reisebüro in Bergfelde, Birkenwerder und Hohen Neuendorf für individuelle Reisen. Für sie vor Ort: Heike Wieruch ...',
     keywords:
       'Reisebüro Bergfelde, Reisen Bergfelde, Reisebüro Birkenwerder, Reisebüro Hohen Neuendorf, Reisebüro Wieruch',
   },
@@ -64,6 +65,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-sass`,
   ],
 };
