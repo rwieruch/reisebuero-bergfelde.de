@@ -19,7 +19,7 @@ const About = () => (
         </p>
         <p>
           Bereits seit 1996 stelle ich, Heike Wieruch, meinen Kunden Reisen ganz
-          nach ihren individuellen Wünschen zusammen. Seit 2010 unterstützt mich
+          nach ihren individuellen Wünschen im Reisebüro Bergfelde zusammen. Seit 2010 unterstützt mich
           dabei Silvia Bürst. Gemeinsam haben wir es uns zur Aufgabe gemacht,
           Ihren Urlaub nicht nur schön, sondern unvergesslich zu machen.
           Umfassendes Reisewissen, persönlicher Service und eine große
