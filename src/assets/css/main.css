@@ -1115,7 +1115,7 @@ properly.
 --------------------------------------------------------------- */
 @media screen and (min-width: 1200px) {
    .wide .row {
-      max-width: 1180px;
+      max-width: 940px;
    }
 }
 
@@ -1414,8 +1414,8 @@ ul#nav li a:active {
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 180px;
+   height: 180px;
    border-radius: 100%;
 }
 #about .contact-details {
@@ -2165,6 +2165,7 @@ footer .copyright li:first-child:before {
       margin: 12px 0;
       line-height: 16px; /* reset line-height from 48px */
       border: none;
+      color: #ffffff;
    }
 
    /* Header Styles

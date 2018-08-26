@@ -19,13 +19,14 @@ const About = () => (
         </p>
         <p>
           Bereits seit 1996 stelle ich, Heike Wieruch, meinen Kunden Reisen ganz
-          nach ihren individuellen Wünschen im Reisebüro Bergfelde zusammen. Seit 2010 unterstützt mich
-          dabei Silvia Bürst. Gemeinsam haben wir es uns zur Aufgabe gemacht,
-          Ihren Urlaub nicht nur schön, sondern unvergesslich zu machen.
-          Umfassendes Reisewissen, persönlicher Service und eine große
-          Angebotsvielfalt zeichnen uns aus. Wir möchten, dass Sie Ihren Urlaub
-          entspannt und sorgenfrei genießen können und deswegen sind wir nicht
-          nur vor, sondern auch während und nach Ihrer Reise stets für Sie da.
+          nach ihren individuellen Wünschen im Reisebüro Bergfelde zusammen.
+          Seit 2010 unterstützt mich dabei Silvia Bürst. Gemeinsam haben wir es
+          uns zur Aufgabe gemacht, Ihren Urlaub nicht nur schön, sondern
+          unvergesslich zu machen. Umfassendes Reisewissen, persönlicher Service
+          und eine große Angebotsvielfalt zeichnen uns aus. Wir möchten, dass
+          Sie Ihren Urlaub entspannt und sorgenfrei genießen können und deswegen
+          sind wir nicht nur vor, sondern auch während und nach Ihrer Reise
+          stets für Sie da.
         </p>
         <p>
           Ob Last Minute- oder Frühbucher, Pauschalreise, Kreuzfahrttrip oder
@@ -45,7 +46,12 @@ const About = () => (
               <br />
               <span>Telefon: 03303 504137</span>
               <br />
-              <span>E-Mail: info@reisebuero-bergfelde.de</span>
+              <span>
+                E-Mail:{' '}
+                <a href="mailto:info@reisebuero-bergfelde.de">
+                  info@reisebuero-bergfelde.de
+                </a>
+              </span>
             </p>
           </div>
 
