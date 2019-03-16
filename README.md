@@ -9,8 +9,6 @@
 
 ## Installation
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-`gatsby new gatsby-starter-ceevee https://github.com/rwieruch/gatsby-starter-business-card`
-
-Run `gatsby develop` in the terminal to start.
+* Clone the repository to your local machine.
+* Run `npm install` to install all depdencencies.
+* Run `gatsby develop` in the terminal to start.
