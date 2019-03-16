@@ -2,7 +2,7 @@
 
 🚀 Gatsby Starter - Business Card
 
-**[Demo](https://www.bergfelde-reisen.de)**
+**[Demo](https://www.reisebuero-bergfelde.de)**
 
 * Single Page Business Card Site
 * Target Audience: Local Businesses
