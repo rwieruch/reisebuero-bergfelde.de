@@ -7,7 +7,7 @@
 * Single Page Business Card Site
 * Target Audience: Local Businesses
 
-## Installation
+### Installation
 
 * Clone the repository to your local machine.
 * Run `npm install` to install all depdencencies.
